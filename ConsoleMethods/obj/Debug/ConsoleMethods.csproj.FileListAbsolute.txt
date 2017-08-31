@@ -1,0 +1,6 @@
+C:\C#\ConsoleMethods\ConsoleMethods\obj\Debug\ConsoleMethods.csprojResolveAssemblyReference.cache
+C:\C#\ConsoleMethods\ConsoleMethods\bin\Debug\ConsoleMethods.exe.config
+C:\C#\ConsoleMethods\ConsoleMethods\bin\Debug\ConsoleMethods.exe
+C:\C#\ConsoleMethods\ConsoleMethods\bin\Debug\ConsoleMethods.pdb
+C:\C#\ConsoleMethods\ConsoleMethods\obj\Debug\ConsoleMethods.exe
+C:\C#\ConsoleMethods\ConsoleMethods\obj\Debug\ConsoleMethods.pdb
